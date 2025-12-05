@@ -43,9 +43,6 @@ github.com/jtolds/gls
 github.com/lib/pq
 github.com/lib/pq/oid
 github.com/lib/pq/scram
-# github.com/magefile/mage v1.10.0
-github.com/magefile/mage/mg
-github.com/magefile/mage/sh
 # github.com/matttproud/golang_protobuf_extensions v1.0.1
 github.com/matttproud/golang_protobuf_extensions/pbutil
 # github.com/pkg/errors v0.9.1
@@ -84,7 +81,7 @@ github.com/silenceper/wechat/server
 github.com/silenceper/wechat/tcb
 github.com/silenceper/wechat/user
 github.com/silenceper/wechat/util
-# github.com/sirupsen/logrus v1.8.0
+# github.com/sirupsen/logrus v1.8.3
 ## explicit
 github.com/sirupsen/logrus
 # github.com/smartystreets/assertions v0.0.0-20180927180507-b2de0cb4f26d
@@ -105,7 +102,7 @@ golang.org/x/crypto/pkcs12
 golang.org/x/crypto/pkcs12/internal/rc2
 # golang.org/x/net v0.0.0-20191125084936-ffdde1057850
 golang.org/x/net/idna
-# golang.org/x/sys v0.0.0-20200615200032-f1bc736245b1
+# golang.org/x/sys v0.0.0-20220715151400-c0bba94af5f8
 golang.org/x/sys/internal/unsafeheader
 golang.org/x/sys/unix
 golang.org/x/sys/windows
